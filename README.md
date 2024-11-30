@@ -26,6 +26,8 @@ Hi there! I'm **Refat**, a Software Engineer with **6+ years** of experience in 
 - **LinkedIn:** [linkedin.com/in/refatmustaque](https://linkedin.com/in/refatmustaque)  
 - **GitHub:** [github.com/refatmustaque](https://github.com/refatmustaque)  
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

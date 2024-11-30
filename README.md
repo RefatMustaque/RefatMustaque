@@ -1,7 +1,7 @@
 # 💻 Refat Bin Mustaque  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Problem+Solver;Coding+is+my+Career+%7C+Technology+Enthusiast;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=500&color=1D9BF0&center=true&vCenter=true&width=600&lines=Experienced+Software+Engineer;Specializing+in+ASP.NET+Core+and+Scalable+Systems;Open+to+Collaborating+on+Challenging+Projects" alt="Typing Animation">
 </p>
 
 Hi there! I'm **Refat**, a Software Engineer with **6+ years** of experience in building scalable, efficient, and user-friendly software solutions. Coding started as a passion for me and has evolved into a career where I strive to stay sharp and adaptable in a competitive industry.  

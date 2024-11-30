@@ -26,8 +26,19 @@ Hi there! I'm **Refat**, a Software Engineer with **6+ years** of experience in 
 - **LinkedIn:** [linkedin.com/in/refatmustaque](https://linkedin.com/in/refatmustaque)  
 - **GitHub:** [github.com/refatmustaque](https://github.com/refatmustaque)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=refatmustaque&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=refatmustaque&show_icons=true&hide_title=true&theme=algolia" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=refatmustaque&theme=algolia" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refatmustaque&layout=compact&theme=algolia" alt="Top Languages">
+</p>
 
 ---
-
 📖 *"In this field, it's not just about coding—it's about keeping pace with change and staying prepared for what's next."*

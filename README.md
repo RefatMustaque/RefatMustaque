@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=500&color=1D9BF0&center=true&vCenter=true&width=600&lines=Experienced+Software+Engineer;Specializing+in+ASP.NET+Core+and+Scalable+Systems;Open+to+Collaborating+on+Challenging+Projects" alt="Typing Animation">
 </p>
 
-Hi there! I'm **Refat**, a Software Engineer passionate about building scalable, efficient, and user-friendly software solutions. Coding started as a personal interest and has evolved into a career where I strive to stay sharp and adaptable in a competitive industry.  
+Refat Bin Mustaque is a software engineer currently at BakerGoodChild in the UK, leading the development of the Frankk SaaS platform. He brings experience in full-stack web application development using ASP.NET Core, MVC, and related technologies, having contributed to multiple projects in Bangladesh with IMpulse (BD) Ltd, Alphasoft Technology Limited, and Toiree IT & E-commerce Service.
+
+He moved to the UK in November 2023 and has since continued his professional journey. Refat holds a B.Sc in Computer Science & Engineering from AIUB, Bangladesh, and was actively involved in Microsoft Student Partner and university tech clubs.  
 
 ---
 

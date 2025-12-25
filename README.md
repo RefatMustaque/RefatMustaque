@@ -28,7 +28,7 @@ He moved to the UK in November 2023 and has since continued his professional jou
 ## 📫 Get in Touch  
 - **LinkedIn:** [linkedin.com/in/refatmustaque](https://linkedin.com/in/refatmustaque)  
 - **GitHub:** [github.com/refatmustaque](https://github.com/refatmustaque)  
-- **Blog:** [blog.rbmcodes.com](https://blog.rbmcodes.com)  
+- **Blog:** [blog.refatmustaque.com](https://blog.refatmustaque.com)  
 
 ---
 

@@ -21,7 +21,7 @@ He moved to the UK in November 2023 and has since continued his professional jou
 ## 🌟 Portfolio & Projects  
 - **[refatmustaque.github.io](https://refatmustaque.github.io):** My personal portfolio showcasing professional projects.  
 - Spearheaded **Frankk**, a SaaS platform revolutionizing direct mail campaigns, recognized for its innovation in the industry. [Visit Frankk App](https://app.frankk.post)  
-- **[GitHub Scraper](https://githubscrapper.rbmcodes.com):** A simple tool that lets users download GitHub repositories as text or interactive HTML files.  
+- **[GitHub Scraper](https://githubscrapper.refatmustaque.com):** A simple tool that lets users download GitHub repositories as text or interactive HTML files.  
 
 ---
 

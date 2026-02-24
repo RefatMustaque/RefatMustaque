@@ -8,6 +8,8 @@ Refat Bin Mustaque is a software engineer currently at BakerGoodChild in the UK,
 
 He moved to the UK in November 2023 and has since continued his professional journey. Refat holds a B.Sc in Computer Science & Engineering from AIUB, Bangladesh, and was actively involved in Microsoft Student Partner and university tech clubs.  
 
+Know more about me on **[my portfolio](https://refatmustaque.com)**.
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -18,10 +20,15 @@ He moved to the UK in November 2023 and has since continued his professional jou
 
 ---
 
-## 🌟 Portfolio & Projects  
-- **[refatmustaque.github.io](https://refatmustaque.github.io):** My personal portfolio showcasing professional projects.  
-- Spearheaded **Frankk**, a SaaS platform revolutionizing direct mail campaigns, recognized for its innovation in the industry. [Visit Frankk App](https://app.frankk.post)  
-- **[GitHub Scraper](https://githubscrapper.refatmustaque.com):** A simple tool that lets users download GitHub repositories as text or interactive HTML files.  
+## 🌟 Live Projects  
+
+### Professional Projects
+- **[Frankk App](https://app.frankk.post):** A product of BakerGoodChild, recognized for revolutionizing direct mail campaigns in the industry.  
+- **[Invenio Home Villa Sales](https://sales.inveniohomes.com/):** A villa rental app developed by the IMpulse BD Ltd team using their in-house Pulse Link framework for Invenio Homes.  
+
+### Personal Projects
+- **[GitHub Scrapper](https://githubscrapper.refatmustaque.com):** A simple tool that lets users download GitHub repositories as text or interactive HTML files.  
+- **[TicTacToe](https://github.com/refatmustaque/TicTacToe):** A fun TicTacToe project on GitHub.  
 
 ---
 

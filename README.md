@@ -22,13 +22,13 @@ Know more about me on **[my portfolio](https://refatmustaque.com)**.
 
 ## 🌟 Live Projects  
 
-### Professional Projects
+### Professional Work
 - **[Frankk App](https://app.frankk.post):** A product of BakerGoodChild, recognized for revolutionizing direct mail campaigns in the industry.  
 - **[Invenio Home Villa Sales](https://sales.inveniohomes.com/):** A villa rental app developed by the IMpulse BD Ltd team using their in-house Pulse Link framework for Invenio Homes.  
 
-### Personal Projects
+### Personal Builds
 - **[GitHub Scrapper](https://githubscrapper.refatmustaque.com):** A simple tool that lets users download GitHub repositories as text or interactive HTML files.  
-- **[TicTacToe](https://github.com/refatmustaque/TicTacToe):** A fun TicTacToe project on GitHub.  
+- **[TicTacToe](https://github.com/refatmustaque/TicTacToe):** A personal build created as a vibe-coding experiment.  
 
 ---
 

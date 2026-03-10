@@ -16,7 +16,9 @@ Know more about me on **[my portfolio](https://refatmustaque.com)**.
 - **Languages:** C#, JavaScript, PHP  
 - **Frameworks:** .NET Core, ASP.NET MVC, Laravel  
 - **Databases:** PostgreSQL, MSSQL  
-- **DevOps & Tools:** Azure DevOps, SignalR, Quartz.NET  
+- **DevOps & Tools:** Azure DevOps, GitHub Actions, SignalR, Quartz.NET  
+- **CI/CD:** GitHub Actions (push triggers, workflow_dispatch, concurrency control), dotnet publish, rsync  
+- **Linux & Server:** SSH deployment, systemd service management, file permission management, automated backup strategies  
 
 ---
 
@@ -26,16 +28,18 @@ Know more about me on **[my portfolio](https://refatmustaque.com)**.
 - **[Frankk App](https://app.frankk.post):** A product of BakerGoodChild, recognized for revolutionizing direct mail campaigns in the industry.  
 - **[Invenio Home Villa Sales](https://sales.inveniohomes.com/):** A villa rental app developed by the IMpulse BD Ltd team using their in-house Pulse Link framework for Invenio Homes.  
 
-### Personal Builds
+### Personal Sites & Tools
+- **[Portfolio](https://refatmustaque.com):** My personal portfolio — showcasing my experience, projects, and skills.  
+- **[Notes](https://notes.refatmustaque.com):** My blog where I write about software engineering, .NET, cloud deployments, and lessons from the field.  
 - **[GitHub Scrapper](https://githubscrapper.refatmustaque.com):** A simple tool that lets users download GitHub repositories as text or interactive HTML files.  
-- **[TicTacToe](https://github.com/refatmustaque/TicTacToe):** A personal build created as a vibe-coding experiment.  
 
 ---
 
 ## 📫 Get in Touch  
+- **Portfolio:** [refatmustaque.com](https://refatmustaque.com)  
 - **LinkedIn:** [linkedin.com/in/refatmustaque](https://linkedin.com/in/refatmustaque)  
 - **GitHub:** [github.com/refatmustaque](https://github.com/refatmustaque)  
-- **Blog:** [blog.refatmustaque.com](https://blog.refatmustaque.com)  
+- **Blog:** [notes.refatmustaque.com](https://notes.refatmustaque.com)  
 
 ---
 

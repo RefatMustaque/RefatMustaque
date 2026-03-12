@@ -13,12 +13,10 @@ Know more about me on **[my portfolio](https://refatmustaque.com)**.
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** C#, JavaScript, PHP  
-- **Frameworks:** .NET Core, ASP.NET MVC, Laravel  
-- **Databases:** PostgreSQL, MSSQL  
-- **DevOps & Tools:** Azure DevOps, GitHub Actions, SignalR, Quartz.NET  
-- **CI/CD:** GitHub Actions (push triggers, workflow_dispatch, concurrency control), dotnet publish, rsync  
-- **Linux & Server:** SSH deployment, systemd service management, file permission management, automated backup strategies  
+- **Languages & Frameworks:** C#, PHP, JavaScript, .NET Core, ASP.NET Core, ASP.NET MVC, Entity Framework, Laravel, Bootstrap, jQuery  
+- **Libraries & Tools:** SignalR, PDFSharp, NPOI, Fabric.js, ImageMagick, Ghostscript, Quartz.NET  
+- **Databases & Cloud:** SQL Server, PostgreSQL, MariaDB, Redis, Azure, CI/CD, TDD  
+- **Version Control & Project Tools:** Git, SVN, GitHub, GitHub Actions, Bitbucket, Azure DevOps, Jira, Trello  
 
 ---
 

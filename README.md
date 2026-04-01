@@ -1,3 +1,29 @@
+---
+keywords:
+  - software engineering
+  - asp.net core
+  - .net
+  - c#
+  - web development
+  - devops
+
+# Front matter defaults — auto-applied to every page and post
+defaults:
+  - scope:
+      path: ""
+    values:
+      author:
+        - "Refat Mustaque"
+        - "Refat Bin Mustaque"
+      site:
+        - "refatmustaque.com"
+        - "notes.refatmustaque.com"
+        - "githubscrapper.refatmustaque.com"
+      social:
+        linkedin: "https://linkedin.com/in/refatmustaque"
+        github: "https://github.com/refatmustaque"
+---
+
 # 💻 Refat Bin Mustaque  
 
 <p align="center">

@@ -1,9 +1,3 @@
-<meta name="keywords" content="software engineering, asp.net core, .net, c#, web development, devops">
-<meta name="author" content="Refat Mustaque, Refat Bin Mustaque">
-<meta name="site" content="refatmustaque.com, notes.refatmustaque.com, githubscrapper.refatmustaque.com">
-<meta name="linkedin" content="https://linkedin.com/in/refatmustaque">
-<meta name="github" content="https://github.com/refatmustaque">
-
 # 💻 Refat Bin Mustaque  
 
 <p align="center">

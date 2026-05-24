@@ -4,27 +4,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=500&color=1D9BF0&center=true&vCenter=true&width=600&lines=Experienced+Software+Engineer;Specializing+in+ASP.NET+Core+and+Scalable+Systems;Open+to+Collaborating+on+Challenging+Projects" alt="Typing Animation">
 </p>
 
-Refat Bin Mustaque is a software engineer currently at BakerGoodChild in the UK, leading the development of the Frankk SaaS platform. He brings experience in full-stack web application development using ASP.NET Core, MVC, and related technologies, having contributed to multiple projects in Bangladesh with IMpulse (BD) Ltd, Alphasoft Technology Limited, and Toiree IT & E-commerce Service.
+Software Engineer with 7.5+ years of experience designing and delivering scalable enterprise and SaaS applications across the UK and Bangladesh. Currently leading development of the frankk. Direct Mail platform at BakerGoodChild, enabling direct mail campaign automation for 800+ users with real-time analytics, API integrations, and high-volume processing.
 
-He moved to the UK in November 2023 and has since continued his professional journey. Refat holds a B.Sc in Computer Science & Engineering from AIUB, Bangladesh, and was actively involved in Microsoft Student Partner and university tech clubs.  
+Strong expertise in ASP.NET Core, MVC, Web APIs, Entity Framework, Identity, SignalR, Azure, and distributed system design, with hands-on experience in payment gateway integration, background job processing, and performance optimisation. Proven ability to design secure, layered architectures and build production-grade APIs used by external clients.
+
+Experienced in leading teams, owning end-to-end systems, and delivering measurable business impact, including cost reduction, system scalability, and performance improvements across enterprise platforms. Delivered solutions for pharmaceutical, fintech, SaaS, logistics, and government-related systems.
+
+Holds a B.Sc. in Computer Science & Engineering with professional experience in enterprise application development and ASP .NET Core-based system architecture.
 
 Know more about me on **[my portfolio](https://refatmustaque.com)**.
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages & Frameworks:** C#, PHP, JavaScript, .NET Core, ASP.NET Core, ASP.NET MVC, Entity Framework, Laravel, Bootstrap, jQuery  
-- **Libraries & Tools:** SignalR, PDFSharp, NPOI, Fabric.js, ImageMagick, Ghostscript, Quartz.NET  
-- **Databases & Cloud:** SQL Server, PostgreSQL, MariaDB, Redis, Azure, CI/CD, TDD  
-- **Version Control & Project Tools:** Git, SVN, GitHub, GitHub Actions, Bitbucket, Azure DevOps, Jira, Trello  
+- **Languages & Frameworks:** C#, .NET Core, ASP .NET Core, ASP .NET MVC, Web API, PHP, Laravel, JavaScript, TypeScript, React.js, jQuery, Bootstrap  
+- **Architecture & Design:** C#, RESTful API Development, Monolithic Architecture, Layered Architecture, MVC Pattern, SOLID Principles, Clean Code Practices, SaaS Application Development  
+- **Backend & Libraries:** Entity Framework Core, ASP .NET Identity, OAuth, JWT Authentication, SignalR, Quartz.NET, ASP .NET Core Custom Middleware, PDFSharp, NPOI, Ghostscript, ImageMagick, mPDF, PHPWord, Fabric.js  
+- **Database:** SQL Server, PostgreSQL, MariaDB, Redis  
+- **Cloud & DevOps:** Microsoft Azure (VM, IIS, Deployment), Docker, CI/CD Pipelines, Azure DevOps, Linux Server Deployment  
+- **AI & Development Productivity Tools:** GitHub Copilot, AI-assisted development workflows, custom coding agents for code generation and automation  
+- **Version Control & Tools:** Git, GitHub, Bitbucket, SVN, Jira, Trello  
+- **Other Expertise:** Payment Gateway Integration (Barclaycard, Cardstream), API Development & Integration, Background Job Processing, Real-time Systems, Performance Optimization  
 
 ---
 
 ## 🌟 Live Projects  
 
 ### Professional Work
-- **[Frankk App](https://app.frankk.post):** A product of BakerGoodChild, recognized for revolutionizing direct mail campaigns in the industry.  
-- **[Invenio Home Villa Sales](https://sales.inveniohomes.com/):** A villa rental app developed by the IMpulse BD Ltd team using their in-house Pulse Link framework for Invenio Homes.  
+- **[frankk. App](https://app.frankk.post):** A product of BakerGoodChild, recognized for revolutionizing direct mail campaigns in the industry.  
 
 ### Personal Sites & Tools
 - **[Portfolio](https://refatmustaque.com):** My personal portfolio — showcasing my experience, projects, and skills.  

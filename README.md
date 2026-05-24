@@ -26,12 +26,6 @@ I specialize in designing secure backend systems, production APIs, and maintaina
 - [frankk. App](https://app.frankk.post)
   Enterprise direct mail product focused on campaign orchestration and high-volume processing.
 
-- [Portfolio](https://refatmustaque.com)
-  Experience, case studies, and project highlights.
-
-- [Notes](https://notes.refatmustaque.com)
-  Articles on software engineering, architecture, deployment, and lessons from delivery.
-
 - [GitHub Scrapper](https://githubscrapper.refatmustaque.com)
   Utility to export GitHub repositories as text or interactive HTML.
 
